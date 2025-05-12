@@ -1,5 +1,8 @@
-package ConversorDeMonedas;
+package ConversorDeMonedas.conexion;
 //Maneja la lógica del conversor e interactua con el usuario.
+
+import ConversorDeMonedas.modelo.ConsultaDeMoneda;
+import ConversorDeMonedas.modelo.MonedasDisponibles;
 
 import java.util.*;
 

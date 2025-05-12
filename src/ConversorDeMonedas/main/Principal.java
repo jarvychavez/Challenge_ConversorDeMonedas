@@ -1,5 +1,7 @@
-package ConversorDeMonedas;
+package ConversorDeMonedas.main;
 //Clase que continene el método main para ejecutar el programa.
+
+import ConversorDeMonedas.conexion.ConversorMoneda;
 
 import java.util.Scanner;
 

@@ -3,54 +3,30 @@
     "moneda_base": "USD",
     "moneda_cambio": "MXN",
     "conversion_base": 1.0,
-    "resultado": 19.5428
-  },
-  {
-    "moneda_base": "MXN",
-    "moneda_cambio": "USD",
-    "conversion_base": 20.0,
-    "resultado": 1.0234
-  },
-  {
-    "moneda_base": "USD",
-    "moneda_cambio": "EUR",
-    "conversion_base": 80.0,
-    "resultado": 71.064
-  },
-  {
-    "moneda_base": "USD",
-    "moneda_cambio": "COP",
-    "conversion_base": 90.0,
-    "resultado": 387283.437
+    "resultado": 19.4478
   },
   {
     "moneda_base": "COP",
     "moneda_cambio": "USD",
-    "conversion_base": 2.0,
-    "resultado": 4.6478E-4
-  },
-  {
-    "moneda_base": "COP",
-    "moneda_cambio": "USD",
-    "conversion_base": 9.99999999E8,
-    "resultado": 232389.99976761
-  },
-  {
-    "moneda_base": "COP",
-    "moneda_cambio": "USD",
-    "conversion_base": 22548.0,
-    "resultado": 5.23992972
-  },
-  {
-    "moneda_base": "COP",
-    "moneda_cambio": "USD",
-    "conversion_base": 22548.2,
-    "resultado": 5.239976198
+    "conversion_base": 2000.0,
+    "resultado": 0.4729
   },
   {
     "moneda_base": "USD",
     "moneda_cambio": "ARS",
-    "conversion_base": 20.0,
-    "resultado": 22350.0
+    "conversion_base": 2000000.0,
+    "resultado": 2.22716E9
+  },
+  {
+    "moneda_base": "MXN",
+    "moneda_cambio": "USD",
+    "conversion_base": 1500.0,
+    "resultado": 77.13
+  },
+  {
+    "moneda_base": "EUR",
+    "moneda_cambio": "USD",
+    "conversion_base": 1350.0,
+    "resultado": 1516.995
   }
 ]
