@@ -90,9 +90,9 @@ public class ConversorMoneda {
 
         // Lógica para obtener la tasa y realizar la conversión
         try {
-            Map<String, Double> tasas = consultaDeMoneda.obtenerTasasDeCambio(origen);
-            if (tasas != null && tasas.containsKey(destino)) {
-                double tasa = tasas.get(destino);
+            Double tasa = consultaDeMoneda.obtenerTasasDeCambio(origen, destino);
+            if (tasa != null ) {
+                //double tasa = tasas.get(destino);
                 double convertido = monto * tasa; // Realiza la conversión
                 System.out.printf("El valor de: %.2f %s corresponde al valor de = %.2f %s%n", monto, origen, convertido, destino);
 

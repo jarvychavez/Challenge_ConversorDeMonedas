@@ -6,6 +6,7 @@
   "time_last_update_utc": "Mon, 12 May 2025 00:00:01 +0000",
   "time_next_update_unix": 1747094401,
   "time_next_update_utc": "Tue, 13 May 2025 00:00:01 +0000",
-  "base_code": "EUR",
-  "conversion_rate": 0.0
+  "base_code": "MXN",
+  "target_code": "USD",
+  "conversion_rate": 0.05142
 }
